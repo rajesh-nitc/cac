@@ -1,4 +1,4 @@
 # Cac
 Deploy AWS Config rules via CloudFormation
 ## Getting Started
-Deploy first rule via CloudFormation
+Deploy ```first-rule.yaml``` template via CloudFormation
